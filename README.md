@@ -11,3 +11,9 @@
 
 
 ![ex4](images/ex4.png)
+
+![ex4_2_1](images/ex4_2_1.png)
+
+![ex4_2_2](images/ex4_2_2.png)
+
+![ex4_2_3](images/ex4_2_3.png)
