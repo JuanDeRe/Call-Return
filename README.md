@@ -17,3 +17,6 @@
 ![ex4_2_2](images/ex4_2_2.png)
 
 ![ex4_2_3](images/ex4_2_3.png)
+
+![ex5](images/ex5.png)
+
