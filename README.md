@@ -20,3 +20,4 @@
 
 ![ex5](images/ex5.png)
 
+![ex6](images/ex6.png)
